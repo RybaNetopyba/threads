@@ -1,14 +1,19 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
+description,Description,,,DCTERMS.description,description
+сategory,Category,true,,DCTERMS.description,description
+subcategory,Subcategory,true,,DCTERMS.description,description
+gender_and_age_group,Gender and Age Group,true,,DCTERMS.description,description
+materials,Materials,true,,DCTERMS.description,description
+ornament,Ornament,true,,DCTERMS.description,description
+techniques,Techniques,true,,DCTERMS.description,description
+cut_and_dimensions,Cut and Dimensions,,,DCTERMS.description,description
 creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
+ethno-region,Ethno-region,true,,DCTERMS.coverage,contentLocation
 location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
 source,Source,,,,
 identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
+notes,Notes,,,DCTERMS.description,description
 rightsstatement,,,,DCTERMS.rights,license

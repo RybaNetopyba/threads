@@ -2,3 +2,5 @@ field,index,display
 title,true,true
 description,true,true
 location,true,false
+сategory,true,true
+subcategory,true,true

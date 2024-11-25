@@ -3,3 +3,5 @@ category,Category,,,Category
 subcategory,,,,
 location,,true
 ethno-region,Ethno-region,,true
+location,Location,,true
+source,Source,,true

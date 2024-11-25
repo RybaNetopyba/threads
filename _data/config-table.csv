@@ -1,4 +1,6 @@
 field,display_name
 title,Title
+сategory,Category
 description,Description
 location, Location
+source, Source

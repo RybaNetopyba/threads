@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+## On the History of the Traditional Folk Costume of Sloboda Ukraine
 
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 

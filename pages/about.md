@@ -16,6 +16,8 @@ credits: true
 
 Despite periodic waves of interest in material folk culture throughout the 20th century and beyond, the study of the traditional costume of Sloboda Ukraine has long remained on the periphery of modern ethnography, garnering attention mostly in passing. One key reason is the low degree of preservation of traditional clothing practices in this region, which began to deteriorate rapidly at the end of the 19th century. Furthermore, social upheavals such as collectivization, the Holodomor, and the tragic events of World War II led to the physical destruction of many examples of folk art.
 
+!["Morning of Christ's Resurrection" by Mykola Pymonenko](/assets/img/pymonenko.jpg "Morning of Christ's Resurrection")
+
 Efforts to fill this gap on the ethnographic map of Ukraine have varied in approach and success. Some researchers have tended to equate Sloboda Ukrainian costumes with the better-preserved and studied Poltava costumes. While neighboring regional traditions do share many similarities, they cannot be considered identical. Early but significant attempts to highlight the unique features of Sloboda Ukrainian attire date back to the late 19th century. These efforts coincided with the flourishing of regional ethnography, notably in preparation for the 12th Archaeological Congress held in Kharkiv in 1902, a landmark event for the city’s intellectual community.
 
 The exhibition held as part of the congress drew particular attention, attracting an estimated 57,000 visitors in a short time. The ethnographic section, the richest part of the exhibition, featured items of folk life collected from Katerynoslav, Poltava, Kharkiv, Voronezh, Kursk, and Chernihiv provinces, with traditional clothing, footwear, and jewelry holding a prominent place.

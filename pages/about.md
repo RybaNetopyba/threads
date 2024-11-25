@@ -7,12 +7,9 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 # {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+# {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
 
 ---
-
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
-
-
 ## On the History of the Traditional Folk Costume of Sloboda Ukraine
 
 ***Slobozhanshchyna***, or ***Sloboda Ukraine***, is an ethnographic region bordered to the north by Novhorod-Siversky Polissia, to the west by Poltava, and to the southwest by the Lower Dnipro region, Pryazovia, and Tavria. In addition to Kharkiv Oblast, the region includes southwestern districts of Sumy Oblast, northern parts of Donetsk and Luhansk oblasts, and within modern Russia, the southern districts of Voronezh and Kursk, as well as nearly all of Belgorod Oblast.

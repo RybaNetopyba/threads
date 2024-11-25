@@ -13,7 +13,7 @@ date,Date Created,,,DCTERMS.date,dateCreated
 subject,Subjects,true,,DCTERMS.subject,keywords
 ethno-region,Ethno-region,true,,DCTERMS.coverage,contentLocation
 location,Location,,,,contentLocation
-source,Source,,,,
+source,Source,true,,,
 identifier,Source Identifier,,,,
 notes,Notes,,,DCTERMS.description,description
 rightsstatement,,,,DCTERMS.rights,license

@@ -2,4 +2,4 @@ field,display_name,btn,hidden,sort_name
 category,Category,,,Category
 subcategory,,,,
 location,,true
-ethno-region,Ethno-region,,hidden
+ethno-region,Ethno-region,,true

@@ -4,3 +4,6 @@ description,true,true
 location,true,false
 сategory,true,true
 subcategory,true,true
+ornament,true,true
+ethno-region,true,true
+source,true,true
